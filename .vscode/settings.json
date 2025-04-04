@@ -1,0 +1,5 @@
+{
+    "STM32VSCodeExtension.projectCreator.executablePath": "/home/wm/STM32CubeMX/STM32CubeMX",
+    "STM32VSCodeExtension.productFinder.executablePath": "/home/wm/STMCUFinder/STMCUFinder",
+    "STM32VSCodeExtension.cubeCLT.path": "/home/wm/st/stm32cubeclt_1.18.0"
+}
