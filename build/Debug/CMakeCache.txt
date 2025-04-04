@@ -111,6 +111,9 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=
 //Flags used by the linker during RELWITHDEBINFO builds.
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
+//No help, variable specified on the command line.
+CMAKE_EXPORT_COMPILE_COMMANDS:UNINITIALIZED=ON
+
 //Value Computed by CMake.
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=/home/wm/Projects/STM32F411CEU6-Blink/STM32F411CEU6-Blink3/build/Debug/CMakeFiles/pkgRedirects
 
@@ -214,8 +217,8 @@ CMAKE_STRIP:FILEPATH=/home/wm/st/stm32cubeclt_1.18.0/GNU-tools-for-STM32/bin/arm
 //Path to a program.
 CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 
-//The CMake toolchain file
-CMAKE_TOOLCHAIN_FILE:FILEPATH=/home/wm/Projects/STM32F411CEU6-Blink/STM32F411CEU6-Blink3/cmake/gcc-arm-none-eabi.cmake
+//No help, variable specified on the command line.
+CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=/home/wm/Projects/STM32F411CEU6-Blink/STM32F411CEU6-Blink3/cmake/gcc-arm-none-eabi.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console
